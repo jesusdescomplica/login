@@ -1,0 +1,38 @@
+body{
+	background-color: #dedede;
+}
+
+.menuTop{
+	background-color: #fff;
+}
+
+.login{
+	margin-left: 5%;
+	margin-top: 5%;
+	margin-bottom: 4%;
+	background-color: #fff;
+	padding: 5%;
+	border-radius: 5%;
+}
+
+.espaco{
+	margin-top: 2%;
+}
+
+.btnAluno{
+	color: #004891;
+	background-color: #e1f0ff;
+	border-color: transparent;
+}
+
+.btnEmpresa{
+	color: #1bc5bd;
+	background-color: #c9f7f5;
+	border-color: transparent;
+}
+
+.btnEnsino{
+	color: #ffa800;
+	background-color: #fff4de;
+	border-color: transparent;
+}
